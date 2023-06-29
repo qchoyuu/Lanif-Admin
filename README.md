@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/developing%20with-DVA%20BOOT%20ADMIN-2077ff.svg">
 </p>
 
-[GitHub主页](https://github.com/LANIF-UI/dva-boot-admin) |
-[码云主页](https://gitee.com/wiqi/dva-boot-admin)
-
 ![](https://ucarecdn.com/b296e689-19fd-46f5-863e-40c0d4ba7a61/1.jpg)
 
 ## 目录
